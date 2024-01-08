@@ -26,14 +26,14 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/https:/
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the files is organized into folders. For example, Chapter2
+All of the files is organized into folders. For example, Chapter01
 
 
 **Following is what you need for this book:**
 
 Unlock the full potential of Photoshop, the go-to app for content creators by mastering its complex tools and features. This book quickly builds on your existing Photoshop knowledge with proven industry techniques, serving as a launchpad to develop professional skills and transformative personal growth.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 2-12).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ### Software and Hardware List
 | Software required                    | OS required                         |
