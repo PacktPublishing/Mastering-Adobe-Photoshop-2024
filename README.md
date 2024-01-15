@@ -20,7 +20,7 @@ This book covers the following exciting features:
 * Automate repetitive tasks with actions and scripts that batch-process hundreds of images in seconds.
 * Integrate vector assets, type styles, and brand colors from other CC applications.
   
-If you feel this book is for you, get your [copy](https://www.amazon.com/https://www.amazon.com/Mastering-Adobe-Photoshop-2024-professional/dp/1838822011) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Mastering-Adobe-Photoshop-2024-professional/dp/1838822011) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
