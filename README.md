@@ -1,11 +1,13 @@
 # Mastering Adobe Photoshop 2024
-# Mastering Adobe Photoshop 2024, Published by Packt
 
 <a href="https://www.packtpub.com/product/mastering-adobe-photoshop-2024/9781838822019"><img src="https://static.packt-cdn.com/products/9781838822019/cover/smaller" alt="Mastering Adobe Photoshop 2024" height="256px" align="right"></a>
 
 This is the code repository for [Mastering Adobe Photoshop 2024](https://www.packtpub.com/product/mastering-adobe-photoshop-2024/9781838822019), published by Packt.
 
 **Discover the smart way to polish your digital imagery skills by editing professional looking photos**
+
+### Note:
+Due to issues with accessing the images in this GitHub repository, we have provided an alternative downloadable link to the resources. You can access all the necessary files and images for this book via the following link: [Resources](https://packt.link/gxf8a). 
 
 ## What is this book about?
 
